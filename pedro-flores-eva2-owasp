@@ -1,1 +1,12 @@
+1.	¿Qué es OWASP y cuál es su principal objetivo? (3 puntos)
+OWASP: Open Web Application Security Project se caracteriza por ser una organización mundial, enfocándose en mejorar la seguridad del software
+2.	¿Qué es el OWASP Top 10 y por qué es importante para los desarrolladores? (4 puntos)
+El OWASP TOP10 es un documento de conciencia para la seguridad en aplicaciones, para los desarrolladores tiene  ya que tiene como finalidad describir los diez riesgos de la seguridad más importantes en aplicaciones web.
+3.	Describe brevemente dos de las vulnerabilidades del OWASP Top 10 2017. (4 puntos)
+
+4.	¿Qué es OWASP ASVS y cuáles son sus niveles de verificación? (4 puntos)
+5.	¿Cuál es la diferencia entre los niveles 1 y 3 de OWASP ASVS? (4 puntos)
+6.	¿Qué es el modelado de amenazas y cuáles son sus beneficios? (4 puntos)
+7.	Nombra dos metodologías de modelado de amenazas. (3 puntos)
+8.	¿Qué es el SDL y cómo ayuda a la seguridad del software? (4 puntos)
 
