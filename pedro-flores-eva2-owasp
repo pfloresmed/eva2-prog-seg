@@ -5,8 +5,12 @@ El OWASP TOP10 es un documento de conciencia para la seguridad en aplicaciones, 
 3.	Describe brevemente dos de las vulnerabilidades del OWASP Top 10 2017.
 Las dos vulnerabilidades principales en el Top 10 2017, el primero es la inyeccion, estas ocurren cuando se envian datos que no son confiables, este se le envian a a un interprete como parte de un comando o consulta. como consecuencia los datos dañinos del atacante pueden confundir al interprete e ingrese a los datos sin autorizacion. la segund vulnerabilidad es la perdida de autenntificacion, esto hace referencia cuando las funciones de la aplicacion /gestion de sesiones) son usadas de manera incorrecta esto trae como consecuencia que los atacantes asuman la identidad de otro usuario. 
 4.	¿Qué es OWASP ASVS y cuáles son sus niveles de verificación? 
+OWASP ASVS, se divide en 3 niveles de verificacion de seguridad de aplicaciones definiendo asi niveles de verificacion de seguridad, el nivel 1: se encuentra dirigido a tipo de software o aplicacion, el nivel 2: esta destinado para aplicaciones que contienen datos sensibles, que requieren proteccion, por ultimo el nivel 3: es para aplicaciones las cuales son mas criticas, aplicaciones las cuales realizan transacciones de alto valor, que contienen datos confiables.
 5.	¿Cuál es la diferencia entre los niveles 1 y 3 de OWASP ASVS? 
+La diferencia que existe en es la profundidad y rigor de los controles de seguridad, el nivel 1 es el encargado de los requerimientos basicos adecuados para las aplicaciones de bajo riesgo, en cambio el nivel 3 es el encargado de exigir un nivel de seguridad mas fuerte, su enfoque principal es para aplicaciones con datos altamente sensibles.
 6.	¿Qué es el modelado de amenazas y cuáles son sus beneficios? 
-7.	Nombra dos metodologías de modelado de amenazas.
+El modelado de amenaza consiste en un proceso encargado para identificar y evaluar posibles amenazas dentro de una aplicacion, sus beneficios incluyen la mejora de la comprension,la priozicacion de las medidas de seguridad y reduccion del riesgo del desarrollo del software.
+7.Nombra dos metodologías de modelado de amenazas.
+
 8.	¿Qué es el SDL y cómo ayuda a la seguridad del software?
 
