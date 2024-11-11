@@ -3,7 +3,7 @@ OWASP: Open Web Application Security Project se caracteriza por ser una organiza
 2.	¿Qué es el OWASP Top 10 y por qué es importante para los desarrolladores?
 El OWASP TOP10 es un documento de conciencia para la seguridad en aplicaciones, para los desarrolladores tiene  ya que tiene como finalidad describir los diez riesgos de la seguridad más importantes en aplicaciones web.
 3.	Describe brevemente dos de las vulnerabilidades del OWASP Top 10 2017.
-
+Las dos vulnerabilidades principales en el Top 10 2017, el primero es la inyeccion, estas ocurren cuando se envian datos que no son confiables, este se le envian a a un interprete como parte de un comando o consulta. como consecuencia los datos dañinos del atacante pueden confundir al interprete e ingrese a los datos sin autorizacion. la segund vulnerabilidad es la perdida de autenntificacion, esto hace referencia cuando las funciones de la aplicacion /gestion de sesiones) son usadas de manera incorrecta esto trae como consecuencia que los atacantes asuman la identidad de otro usuario. 
 4.	¿Qué es OWASP ASVS y cuáles son sus niveles de verificación? 
 5.	¿Cuál es la diferencia entre los niveles 1 y 3 de OWASP ASVS? 
 6.	¿Qué es el modelado de amenazas y cuáles son sus beneficios? 
