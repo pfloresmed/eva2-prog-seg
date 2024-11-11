@@ -1,15 +1,15 @@
 1.	¿Cuáles son los tres pilares de la seguridad informática y qué significan?
-Confidencialidad:
-Integridad :
-Disponibilidad: 
+Confidencialidad:Autoriza que solo akgunas personas tengan acceso a la informacion, protege los datos sensibles del acceso no autorizado
+Integridad : Garantiza que la informacion sea exacta y completa, que no haya sido alterada sin autorizacion, enfocando en prevenir modificaciones no deseada.
+Disponibilidad: PErmite que la infromacion y sistemas esten accesibles para los usuarios autorizados, minimizando el tiempo de actividad. 
 
 2.	¿Qué diferencia hay entre datos e información? (1 pts)
 Los datos son hechos sin procesar, son crudos y sin un contexto, en cambio la informacion es el resultado de procesar y analizar datos otorgandole contexto y valor
 
 3.	Describe una medida para garantizar la confidencialidad. (2 puntos)
-
+Una medida es el uso del CIFRADO, esto quiere decir que los datos se cifran protegiendo mendiante algoritmos que solo permiten su lectura a personas que poseen la clave de descifrado.
 4.	¿Por qué es importante la integridad de la información? (2 puntos)
-
+La integridad 
 5.	Menciona un ejemplo de cómo se puede ver afectada la disponibilidad de la información. (2 puntos)
 
 
