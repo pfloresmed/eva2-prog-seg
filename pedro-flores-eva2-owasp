@@ -10,7 +10,8 @@ OWASP ASVS, se divide en 3 niveles de verificacion de seguridad de aplicaciones 
 La diferencia que existe en es la profundidad y rigor de los controles de seguridad, el nivel 1 es el encargado de los requerimientos basicos adecuados para las aplicaciones de bajo riesgo, en cambio el nivel 3 es el encargado de exigir un nivel de seguridad mas fuerte, su enfoque principal es para aplicaciones con datos altamente sensibles.
 6.	¿Qué es el modelado de amenazas y cuáles son sus beneficios? 
 El modelado de amenaza consiste en un proceso encargado para identificar y evaluar posibles amenazas dentro de una aplicacion, sus beneficios incluyen la mejora de la comprension,la priozicacion de las medidas de seguridad y reduccion del riesgo del desarrollo del software.
-7.Nombra dos metodologías de modelado de amenazas.
+7.  Nombra dos metodologías de modelado de amenazas.
+PASTA: en este modelado de amenazas se proporciona un proceso el cual consta de 7 pasos para lograr analizar los riesgos, tiene como objetivo alinear los objetivos comerciales con los requisitos tecnicos tomando como base el analisis del impacto comercial TRIKE: se basa en el riesgo con una implementacion unica y un proceso de modelado de riesgos. se basa en un modelo de requisitos, asegurando el nivel de riesgo asignado a cada activo, sea "aceptable" para las distintas partes interesadas. 
 
 8.	¿Qué es el SDL y cómo ayuda a la seguridad del software?
 
