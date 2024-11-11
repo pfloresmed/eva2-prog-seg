@@ -1,5 +1,5 @@
 1.	¿Qué es OWASP y cuál es su principal objetivo?
-OWASP: Open Web Application Security Project se caracteriza por ser una organización mundial, enfocándose en mejorar la seguridad del software
+OWASP: Open Web Application Security Project se caracteriza por ser una organización mundial, enfocándose en mejorar la seguridad del software su principal objetivo es 
 2.	¿Qué es el OWASP Top 10 y por qué es importante para los desarrolladores?
 El OWASP TOP10 es un documento de conciencia para la seguridad en aplicaciones, para los desarrolladores tiene  ya que tiene como finalidad describir los diez riesgos de la seguridad más importantes en aplicaciones web.
 3.	Describe brevemente dos de las vulnerabilidades del OWASP Top 10 2017.
