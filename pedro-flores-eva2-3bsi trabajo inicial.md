@@ -1,5 +1,5 @@
 1.	¿Cuáles son los tres pilares de la seguridad informática y qué significan?
-Confidencialidad:Autoriza que solo akgunas personas tengan acceso a la informacion, protege los datos sensibles del acceso no autorizado
+Confidencialidad:Autoriza que solo algunas personas tengan acceso a la informacion, protege los datos sensibles del acceso no autorizado
 Integridad : Garantiza que la informacion sea exacta y completa, que no haya sido alterada sin autorizacion, enfocando en prevenir modificaciones no deseada.
 Disponibilidad: Permite que la informacion y sistemas esten accesibles para los usuarios autorizados, minimizando el tiempo de actividad. 
 
