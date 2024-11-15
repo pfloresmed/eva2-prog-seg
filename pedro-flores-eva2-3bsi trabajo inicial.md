@@ -12,5 +12,4 @@ Una medida es el uso del CIFRADO, esto quiere decir que los datos se cifran prot
 4.	¿Por qué es importante la integridad de la información? 
 La integridad asegura que los datos no han sido alterados o manipulados de manera no autorizada, manteniendo asi la confiabilidad de la informacion evitando errores en la toma de decisiones y proteger contra fraudes.
 
-6.	Menciona un ejemplo de cómo se puede ver afectada la disponibilidad de la información. 
-
+5.	Menciona un ejemplo de cómo se puede ver afectada la disponibilidad de la información. 
