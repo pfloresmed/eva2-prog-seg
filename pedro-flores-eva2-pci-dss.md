@@ -11,4 +11,4 @@ Numero de la tarjeta, nombre y datos del titular de la tarjeta y el codigo de ve
 Esta se encarga de ayudar a las empresas a proteger datos de clientes, contra fraudes y cyberataques reduciendo asi la perdida de informacion, cumplienndo requisitos regulatorios.
 
 5.	Describe brevemente tres de los doce requisitos de PCI DSS.
-Mantener una confirguracion de firewall para proteger los datos del titular de la tarjeta, protefer los datos almacenados de la tarjeta mediante cifrado paea evitar robo o uso indebido, determinar un ID a cada usuario que tenga acceso a los sistemas, para que asi exista un historial que puede ser rastreado.
+Mantener una confirguracion de firewall para proteger los datos del titular de la tarjeta, proteger los datos almacenados de la tarjeta mediante cifrado paea evitar robo o uso indebido, determinar un ID a cada usuario que tenga acceso a los sistemas, para que asi exista un historial que puede ser rastreado.
